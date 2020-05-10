@@ -1,7 +1,7 @@
 # COVIDsweeper-download
 A minesweeper game but the mines will spread to adjacent tiles if you don't find them, just like COVID19! 
 
-![Game Icon](Assets/Sprite/dead.png)
+![Game Icon](dead.png)
 
 Available unity source code at: https://github.com/haohao1331/COVIDsweeper
 
